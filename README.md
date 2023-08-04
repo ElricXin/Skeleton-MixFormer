@@ -12,13 +12,13 @@ encounters a bottleneck in skeleton-based action recognition and
 is unable to outperform advanced GCN-based methods. The root
 cause is that the current skeleton transformer depend on the self-attention mechanism of the complete channel of the global joint,
 ignoring the highly discriminative differential correlation within
-the channel, so it is challenging to learn the expression of the multivariate topology dynamically. To tackle this, we present Skeleton
+the channel, so it is challenging to learn the expression of the multivariate topology dynamically. To tackle this, we present Skeleton
 MixFormer, an innovative spatio-temporal architecture to effectively represent the physical correlations and temporal interactivity
 of the compact skeleton data. Two essential components make up
-the proposed framework: 1) Spatial MixFormer. The channel grouping and cross-attention is utilized to calculate the dynamic multivariate topological relationships. Compared with the full-channel
+the proposed framework: 1) Spatial MixFormer. The channel grouping and cross-attention is utilized to calculate the dynamic multivariate topological relationships. Compared with the full-channel
 self-attention method, Spatial MixFormer better highlights the discriminative differences of the channel groups and the interpretable
 learning of the joint adjacency. 2) Temporal MixFormer, which
-consists of multiscale convolution, temporal transformer and sequential holding model. The multivariate temporal models ensures
+consists of multiscale convolution, temporal transformer and sequential holding model. The multivariate temporal models ensures
 the richness of global difference expression, and realizes the discrimination of key intervals in the sequence, thereby enabling more
 effective learning of long and short-term dependencies in actions.
 Our Skeleton-MixFormer demonstrates state-of-the-art (SOTA) performance across seven different settings on four standard datasets,
