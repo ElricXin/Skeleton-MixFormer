@@ -26,15 +26,6 @@ namely NTU-60, NTU-120, NW-UCLA, and UAV-Human. Specifically, we have achieved a
 method over GCN-based method for the first time. The code will
 be made available in the public version.
 
-+ ### Reviewer gDd4
-  Parameters and Floating Point Operations can refer to Parameters and FLOPs in the project folder
-+ ### Reviewer UsoJ
-  Pre-trained model with supporting evidence can be referred [here](https://drive.google.com/drive/folders/1690ae4E158cI-UYxBEoGBSdO4gW-ncf_?usp=sharing)
-+ ### Reviewer mxF7
-  Channel Reforming & Pretrained Model can be referred [here](https://drive.google.com/drive/folders/1tjYiI_91qdsJCqAfqAWSkIoPQ8gZM5I0?usp=sharing)
-
-
-
 
 
 # Prerequisites
