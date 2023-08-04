@@ -180,6 +180,7 @@ The pre-processed UAV data can be referred [here](https://drive.google.com/drive
 ~~~
 
 ### Pretrained model
+Pretrained weights for NTU RGB+D 60 and 120 can be downloaded from the following link [Google Drive](https://drive.google.com/file/d/15Ahneq5_IgurficrYb3PiiLeEFyS8lBQ/view?usp=share_link)
 pre-trained-model refer to the https://drive.google.com/file/d/15Ahneq5_IgurficrYb3PiiLeEFyS8lBQ/view?usp=share_link
     
 ## Acknowledgements
