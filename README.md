@@ -19,7 +19,7 @@ the proposed framework: 1) Spatial MixFormer. The channel grouping and cross-att
 self-attention method, Spatial MixFormer better highlights the discriminative differences of the channel groups and the interpretable
 learning of the joint adjacency. 2) Temporal MixFormer, which
 consists of multiscale convolution, temporal transformer and sequential holding model. The multivariate temporal models ensures
-the richness of global difference expression, and realizes the discrimination of key intervals in the sequence, thereby enabling more
+the richness of global difference expression, and realizes the discrimination of key intervals in the sequence, thereby enabling more
 effective learning of long and short-term dependencies in actions.
 Our Skeleton-MixFormer demonstrates state-of-the-art (SOTA) performance across seven different settings on four standard datasets,
 namely NTU-60, NTU-120, NW-UCLA, and UAV-Human. Specifically, we have achieved an overall advantage of transformer-based
