@@ -6,9 +6,6 @@ This repo is the official implementation for Skeleton-MixFormer: <u>Multivariate
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/infogcn-representation-learning-for-human/skeleton-based-action-recognition-on-ntu-rgbd-1)](https://paperswithcode.com/sota/skeleton-based-action-recognition-on-ntu-rgbd-1?p=infogcn-representation-learning-for-human)
 
 
-![image](https://github.com/ElricXin/Skeleton-MixFormer/blob/main/figures/framework.PNG)
-![image](https://github.com/ElricXin/Skeleton-MixFormer/blob/main/figures/Expriment.PNG)
-
 ## Abstract
 Vision Transformer, which performs well in various vision tasks,
 encounters a bottleneck in skeleton-based action recognition and
