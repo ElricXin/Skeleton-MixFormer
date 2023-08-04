@@ -1,7 +1,6 @@
 # Skeleton-MixFormer[ACMMM 2023]
 This repo is the official implementation for Skeleton-MixFormer: <u>Multivariate Topology Representation for Skeleton-based Action Recognition<u>
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/sota/skeleton-based-action-recognition-on-uav)](https://paperswithcode.com/sota/skeleton-based-action-recognition-on-uav)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/infogcn-representation-learning-for-human/skeleton-based-action-recognition-on-n-ucla)](https://paperswithcode.com/sota/skeleton-based-action-recognition-on-n-ucla?p=infogcn-representation-learning-for-human)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/infogcn-representation-learning-for-human/skeleton-based-action-recognition-on-ntu-rgbd)](https://paperswithcode.com/sota/skeleton-based-action-recognition-on-ntu-rgbd?p=infogcn-representation-learning-for-human)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/infogcn-representation-learning-for-human/skeleton-based-action-recognition-on-ntu-rgbd-1)](https://paperswithcode.com/sota/skeleton-based-action-recognition-on-ntu-rgbd-1?p=infogcn-representation-learning-for-human)
