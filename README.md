@@ -5,10 +5,8 @@ This repo is the official implementation for Skeleton-MixFormer: <u>Multivariate
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hierarchically-decomposed-graph-convolutional/skeleton-based-action-recognition-on-ntu-rgbd)](https://paperswithcode.com/sota/skeleton-based-action-recognition-on-ntu-rgbd?p=skeleton-mixformer-multivariate-topology)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hierarchically-decomposed-graph-convolutional/skeleton-based-action-recognition-on-ntu-rgbd-1)](https://paperswithcode.com/sota/skeleton-based-action-recognition-on-ntu-rgbd-1?p=skeleton-mixformer-multivariate-topology)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hierarchically-decomposed-graph-convolutional/skeleton-based-action-recognition-on-n-ucla)](https://paperswithcode.com/sota/skeleton-based-action-recognition-on-n-ucla?p=skeleton-mixformer-multivariate-topology)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hierarchically-decomposed-graph-convolutional/skeleton-based-action-recognition-on-uav-human)](https://paperswithcode.com/sota/skeleton-based-action-recognition-on-kinetics?p=skeleton-mixformer-multivariate-topology)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hierarchically-decomposed-graph-convolutional/skeleton-based-action-recognition-on-uav-human)](https://paperswithcode.com/sota/skeleton-based-action-recognition-on-uav-human?p=skeleton-mixformer-multivariate-topology)
 
-
-https://paperswithcode.com/sota/skeleton-based-action-recognition-on-uav
 ## Abstract
 Vision Transformer, which performs well in various vision tasks,
 encounters a bottleneck in skeleton-based action recognition and
