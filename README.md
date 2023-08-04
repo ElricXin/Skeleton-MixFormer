@@ -1,6 +1,6 @@
-# Skeleton-MixFormer
+# Skeleton-MixFormer[ACMMM 2023]
 This repo is the official implementation for Skeleton-MixFormer: <u>Multivariate Topology Representation for Skeleton-based Action Recognition<u>
-
+[![](https://img.shields.io/badge/{徽标标题}-{徽标内容}-{徽标颜色}.svg)]({linkUrl})
 ![image](https://github.com/ElricXin/Skeleton-MixFormer/blob/main/figures/framework.PNG)
 
 ## Special for Reviewers
