@@ -6,7 +6,25 @@ This repo is the official implementation for Skeleton-MixFormer: <u>Multivariate
 ![image](https://github.com/ElricXin/Skeleton-MixFormer/blob/main/figures/framework.PNG)
 ![image](https://github.com/ElricXin/Skeleton-MixFormer/blob/main/figures/Expriment.PNG)
 
-## Special for Reviewers
+## Abstract
+Vision Transformer, which performs well in various vision tasks,
+encounters a bottleneck in skeleton-based action recognition and
+is unable to outperform advanced GCN-based methods. The root
+cause is that the current skeleton transformer depend on the selfattention mechanism of the complete channel of the global joint,
+ignoring the highly discriminative differential correlation within
+the channel, so it is challenging to learn the expression of the multivariate topology dynamically. To tackle this, we present Skeleton
+MixFormer, an innovative spatio-temporal architecture to effectively represent the physical correlations and temporal interactivity
+of the compact skeleton data. Two essential components make up
+the proposed framework: 1) Spatial MixFormer. The channel grouping and cross-attention is utilized to calculate the dynamic multivariate topological relationships. Compared with the full-channel
+self-attention method, Spatial MixFormer better highlights the discriminative differences of the channel groups and the interpretable
+learning of the joint adjacency. 2) Temporal MixFormer, which
+consists of multiscale convolution, temporal transformer and sequential holding model. The multivariate temporal models ensures
+the richness of global difference expression, and realizes the discrimination of key intervals in the sequence, thereby enabling more
+effective learning of long and short-term dependencies in actions.
+Our Skeleton-MixFormer demonstrates state-of-the-art (SOTA) performance across seven different settings on four standard datasets,
+namely NTU-60, NTU-120, NW-UCLA, and UAV-Human. Specifically, we have achieved an overall advantage of transformer-based
+method over GCN-based method for the first time. The code will
+be made available in the public version.
 
 + ### Reviewer gDd4
   Parameters and Floating Point Operations can refer to Parameters and FLOPs in the project folder
