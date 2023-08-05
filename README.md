@@ -31,7 +31,7 @@ be made available in the public version.
 
 
 
-# Prerequisites
+# Dependencies
 
 + Python >= 3.6
 
