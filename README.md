@@ -31,7 +31,7 @@ Our Skeleton MixFormer demonstrates state-of-the-art (SOTA) performance across s
 + NTU RGB+D 60 Skeleton
 + NTU RGB+D 120 Skeleton
 + NW-UCLA
-+ U-Human
++ UAV-Human
 
 **NTU RGB+D 60 and 120**
 
@@ -126,7 +126,8 @@ According to the organization form of UAV-human data set file name, change the p
  # Transform the skeleton to the center of the first frame
  python seq_transformation.py
 ~~~
-The pre-processed UAV data can be referred [here](https://drive.google.com/file/d/1JsEWFlbfr8MM6U-7vbefww6jZqwna6ke/view?usp=sharing)
+The pre-processed UAV-Human_CSv1 data can be referred [here](https://drive.google.com/file/d/1JsEWFlbfr8MM6U-7vbefww6jZqwna6ke/view?usp=sharing)
+The pre-processed UAV-Human_CSv2 data can be referred [here](https://drive.google.com/file/d/1MwN4iNChfAza8cgJ_T2JCRm2P6rDm6ni/view?usp=sharing)
     
 # Training & Testing
 ### Training
