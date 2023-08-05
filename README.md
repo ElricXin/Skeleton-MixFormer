@@ -126,7 +126,7 @@ According to the organization form of UAV-human data set file name, change the p
  # Transform the skeleton to the center of the first frame
  python seq_transformation.py
 ~~~
-The pre-processed UAV data can be referred [here](https://drive.google.com/drive/my-drive)
+The pre-processed UAV data can be referred [here](https://drive.google.com/file/d/1JsEWFlbfr8MM6U-7vbefww6jZqwna6ke/view?usp=sharing)
     
 # Training & Testing
 ### Training
