@@ -10,24 +10,8 @@ This repo is the official implementation for Skeleton-MixFormer: <u>Multivariate
 ![image](https://github.com/ElricXin/Skeleton-MixFormer/blob/main/figures/Expriment.PNG)
 
 ## Abstract
-Vision Transformer, which performs well in various vision tasks,
-encounters a bottleneck in skeleton-based action recognition and
-is unable to outperform advanced GCN-based methods. The root
-cause is that the current skeleton transformer depend on the self-attention mechanism of the complete channel of the global joint,
-ignoring the highly discriminative differential correlation within
-the channel, so it is challenging to learn the expression of the multivariate topology dynamically. To tackle this, we present Skeleton
-MixFormer, an innovative spatio-temporal architecture to effectively represent the physical correlations and temporal interactivity
-of the compact skeleton data. Two essential components make up
-the proposed framework: 1) Spatial MixFormer. The channel grouping and cross-attention is utilized to calculate the dynamic multivariate topological relationships. Compared with the full-channel
-self-attention method, Spatial MixFormer better highlights the discriminative differences of the channel groups and the interpretable
-learning of the joint adjacency. 2) Temporal MixFormer, which
-consists of multiscale convolution, temporal transformer and sequential holding model. The multivariate temporal models ensures
-the richness of global difference expression, and realizes the discrimination of key intervals in the sequence, thereby enabling more
-effective learning of long and short-term dependencies in actions.
-Our Skeleton-MixFormer demonstrates state-of-the-art (SOTA) performance across seven different settings on four standard datasets,
-namely NTU-60, NTU-120, NW-UCLA, and UAV-Human. Specifically, we have achieved an overall advantage of transformer-based
-method over GCN-based method for the first time. The code will
-be made available in the public version.
+Vision Transformer, which performs well in various vision tasks, encounters a bottleneck in skeleton-based action recognition and falls short of advanced GCN-based methods. The root cause is that the current skeleton transformer depends on the self-attention mechanism of the complete channel of the global joint, ignoring the highly discriminative differential correlation within the channel, so it is challenging to learn the expression of the multivariate topology dynamically. To tackle this, we present Skeleton MixFormer, an innovative spatio-temporal architecture to effectively represent the physical correlations and temporal interactivity of the compact skeleton data.  Two essential components make up the proposed framework: 1) Spatial MixFormer. The channel-grouping and mix-attention are utilized to calculate the dynamic multivariate topological relationships. Compared with the full-channel self-attention method, Spatial MixFormer better highlights the channel groups' discriminative differences and the joint adjacency's interpretable learning. 2) Temporal MixFormer, which consists of Multiscale Convolution, Temporal Transformer and Sequential Holding Module. The multivariate temporal models ensure the richness of global difference expression and realize the discrimination of crucial intervals in the sequence, thereby enabling more effective learning of long and short-term dependencies in actions.
+Our Skeleton MixFormer demonstrates state-of-the-art (SOTA) performance across seven different settings on four standard datasets, namely NTU-60, NTU-120, NW-UCLA, and UAV-Human.
 
 
 
