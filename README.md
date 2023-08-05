@@ -1,4 +1,4 @@
-# Skeleton-MixFormer[ACMMM 2023]
+# Skeleton-MixFormer [ACMMM 2023]
 This repo is the official implementation for Skeleton-MixFormer: <u>Multivariate Topology Representation for Skeleton-based Action Recognition<u>
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/skeleton-mixformer-multivariate-topology/skeleton-based-action-recognition-on-uav)](https://paperswithcode.com/sota/skeleton-based-action-recognition-on-uav?p=skeleton-mixformer-multivariate-topology)
